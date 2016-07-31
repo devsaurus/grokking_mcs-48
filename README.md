@@ -1,2 +1,5 @@
-# grokking_mcs-48
-Source files for "Grokking the MCS-48 System"
+Generate PDF:
+
+1. print to postscript file
+2. convert to pdf with  
+   `psp2df -sPAPERSIZE=letter <input file>`
